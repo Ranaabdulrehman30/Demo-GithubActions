@@ -22,7 +22,7 @@ pull_request:
 
      - main
 
-workflow_dispatch:
+   workflow_dispatch:
 
 jobs:
 
