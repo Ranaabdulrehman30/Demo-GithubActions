@@ -10,8 +10,7 @@ run-name: |
 
 
 on:
-
-push:
+  push:
 
    branches:
 
